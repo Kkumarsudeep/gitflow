@@ -4,7 +4,7 @@
 
     <groupId>com.example</groupId>
     <artifactId>gitflow</artifactId>
-    <version>1.7.1-SNAPSHOT</version>
+    <version>1.7.1</version>
 
     <build>
         <plugins>
